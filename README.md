@@ -21,7 +21,7 @@ this will start a server
 
 to test API against CRED Operation
 open postman 
- add a url http://localhost/
+ add a url http://localhost:5000/
 1. to add a user add (/add/)
 give input in json including :- name ,email ,pwd
 
